@@ -1,0 +1,16 @@
+{
+  "name": "Site Measure",
+  "short_name": "Site Measure",
+  "description": "Ducting, grille boot and plenum site measures with drawings, 3D and PDF.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E6EBEE",
+  "theme_color": "#1D5C8C",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
